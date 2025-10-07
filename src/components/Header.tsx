@@ -16,7 +16,7 @@ const Header = () => {
             priority
             />
         </div>
-        <div className='links flex text-center gap-2 items-center'>
+        <div className='links flex text-center gap-5 items-center'>
             <Link href='/'>Home</Link>
             <Link href='/posts'>Posts</Link>
             <Link href='/create'>Create Post</Link>
